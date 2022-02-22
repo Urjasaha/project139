@@ -1,0 +1,19 @@
+body
+{
+   background-size: cover;
+}
+
+h2 {
+    color:rgb(199, 218, 253);
+    font-size:40px;
+    font-style: italic;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#instructions {
+    font-size: 20px;
+}
+
+#canvass {
+    position:center;
+}
